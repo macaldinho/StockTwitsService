@@ -88,7 +88,6 @@ C:\Users\mackh\Source\Repos\StockTwitsService\StockTwitService\bin\Microsoft.Web
 C:\Users\mackh\Source\Repos\StockTwitsService\StockTwitService\bin\Newtonsoft.Json.dll
 C:\Users\mackh\Source\Repos\StockTwitsService\StockTwitService\bin\RestSharp.dll
 C:\Users\mackh\Source\Repos\StockTwitsService\StockTwitService\bin\System.Net.Http.Formatting.dll
-C:\Users\mackh\Source\Repos\StockTwitsService\StockTwitService\bin\System.Web.Cors.dll
 C:\Users\mackh\Source\Repos\StockTwitsService\StockTwitService\bin\System.Web.Helpers.dll
 C:\Users\mackh\Source\Repos\StockTwitsService\StockTwitService\bin\System.Web.Http.dll
 C:\Users\mackh\Source\Repos\StockTwitsService\StockTwitService\bin\System.Web.Http.WebHost.dll

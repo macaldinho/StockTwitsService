@@ -38,10 +38,8 @@ namespace StockTwitService.Controllers
 
                 var tcs = new TaskCompletionSource<StockTwitResponse>();
 
-
                 _client.ExecuteAsync(request, resp =>
                 {
-
                     tcs.TrySetResult(JsonConvert.DeserializeObject<StockTwitResponse>(resp.Content));
 
                 });
