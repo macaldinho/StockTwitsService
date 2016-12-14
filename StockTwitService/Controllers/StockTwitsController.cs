@@ -34,6 +34,7 @@ namespace StockTwitService.Controllers
             try
             {
                 var request = new RestRequest($"api/2/streams/symbol/{symbol}.json", Method.GET);
+                request.AddQueryParameter("limit", limit);
 
                 var tcs = new TaskCompletionSource<StockTwitResponse>();
 

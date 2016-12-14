@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <parameters>
   <parameter name="IIS Web Application Name" description="" value="Default Web Site" tags="IisApp">
-    <parameterEntry kind="ProviderPath" scope="IisApp" match="^c:\\users\\mackh\\documents\\visual\ studio\ 2015\\Projects\\StockTwitService\\StockTwitService\\obj\\Release\\Package\\PackageTmp$" />
-    <parameterEntry kind="ProviderPath" scope="setAcl" match="^c:\\users\\mackh\\documents\\visual\ studio\ 2015\\Projects\\StockTwitService\\StockTwitService\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\mackh\\Source\\Repos\\StockTwitsService\\StockTwitService\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\mackh\\Source\\Repos\\StockTwitsService\\StockTwitService\\obj\\Release\\Package\\PackageTmp$" />
   </parameter>
 </parameters>
